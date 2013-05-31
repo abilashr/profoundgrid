@@ -415,7 +415,12 @@ nav div ul #navTwitter {
 header {
   width: 100%;
   background: #fff200;
-  padding-top: 100px;
+  
+  }
+header .strip{
+	height:20px;
+	width:100%;
+	background-color:red;
 }
 header h1 {
   width: 100%;
